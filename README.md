@@ -53,7 +53,7 @@ A visual representation of the pipeline is included:
 - Jupyter Notebooks  
 - Medallion Architecture  
 - Data transformation & cleaning techniques  
-- (Optional) Spark / Pandas / Delta Lake  
+- Spark / Pandas / Delta Lake  
 
 ---
 
